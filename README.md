@@ -1,7 +1,7 @@
 **Drafty Sumo proudly presents the...**
 # Fictional Character Sexual Content Compliance Guidelines
 
-> **Document Version:** 1.0.1  
+> **Document Version:** 1.0.2  
 > **Release Date:** November 23rd, 2025  
 > **License:** GPL-3.0  
 
@@ -34,7 +34,7 @@ This document is not intended to restrict adult content in general. Its sole pur
 ### Compliance Declaration
 ```
 This creative work complies with the Fictional Character Sexual Content Compliance
-Guidelines (Version 1.0.0). All characters depicted in sexual or suggestive
+Guidelines (Version 1.0.2). All characters depicted in sexual or suggestive
 contexts are confirmed to be adults (18+), meet species maturity requirements,
 and exhibit adult-coded visual and behavioural traits.
 More info at https://github.com/draftysumo/Fiction-Character-Sexual-Content-Compliance-Guidelines
@@ -42,7 +42,7 @@ More info at https://github.com/draftysumo/Fiction-Character-Sexual-Content-Comp
 
 ### Compliance Badge
 ```
-✓ Compliant with FCSCCG (v1.0.0)
+✓ Compliant with FCSCCG (v1.0.2)
 ```
 *Optional: Display this badge in metadata, README, or credits.*
 
@@ -184,5 +184,6 @@ Drafty Sumo — Responsible for updates, clarifications, and community feedback.
 ## Revision History
 | Version | Date | Summary |
 |---------|------|---------|
+| 1.0.2   | Nov 23, 2025 | Typos Patch |
 | 1.0.1   | Nov 23, 2025 | Formality Updates |
 | 1.0.0   | Nov 23, 2025 | Initial release |
