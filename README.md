@@ -34,7 +34,7 @@ This document is not intended to restrict adult content in general. Its sole pur
 ### Compliance Declaration
 ```
 This creative work complies with the Fictional Character Sexual Content Compliance
-Guidelines (Version 1.0.2). All characters depicted in sexual or suggestive
+Guidelines (Version 1.0.3). All characters depicted in sexual or suggestive
 contexts are confirmed to be adults (18+), meet species maturity requirements,
 and exhibit adult-coded visual and behavioural traits.
 More info at https://github.com/draftysumo/Fictional-Character-Sexual-Content-Compliance-Guidelines
@@ -42,7 +42,7 @@ More info at https://github.com/draftysumo/Fictional-Character-Sexual-Content-Co
 
 ### Compliance Badge
 ```
-✓ Compliant with FCSCCG (v1.0.2)
+✓ Compliant with FCSCCG (v1.0.3)
 ```
 *Optional: Display this badge in metadata, README, or credits.*
 
